@@ -24,14 +24,14 @@ Bring software into the physical world by creating intelligent engineering syste
 
 | ID     | Project     | Status |
 | ------ | ----------- | :----: |
-| NS-017 | Nest Air 01 |   📝   |
-| NS-018 | Nest Air 02 |   📝   |
+| NS-017 | Coming soon |   📝   |
+| NS-018 | Coming soon |   📝   |
 
 ### 🤖 Robotics
 
-| ID     | Project | Status |
-| ------ | ------- | :----: |
-| NS-019 | NestBot |   📝   |
+| ID     |   Project   | Status |
+| ------ |   -------   | :----: |
+| NS-019 | Coming soon |   📝   |
 
 # 🔭 Future Directions
 
