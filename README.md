@@ -1,22 +1,56 @@
-# NebulaStack-Robotech 
+# 🤖 NebulaStack – Robotech
 
-Physical engineering projects — from the Nest Air glider to the NestBot robot.  
-Hardware, control systems, and everything that moves in the real world.
+> **Robotics • Aviation • Intelligent Systems**
 
-## 📂 Nest Air (aviation line)
+## 📖 About
 
-- [Nest Air 01](https://github.com/NebulaStack-prog/Nest-Air-01)
-- [Nest Air 02](https://github.com/NebulaStack-prog/Nest-Air-02)
-- [Nest Air 03](https://github.com/NebulaStack-prog/Nest-Air-03)
+**NebulaStack – Robotech** combines software development with engineering.
 
-## 📂 Nest Robo (robotics line)
+The repository focuses on autonomous systems, robotics, aviation and AI-powered hardware.
 
-- [Nest Bot](https://github.com/NebulaStack-prog/NestBot)
+## 🎯 Mission
 
-## 🔗 Ecosystem
+Bring software into the physical world by creating intelligent engineering systems.
 
-- [NebulaStack-Hub](https://github.com/NebulaStack-prog/NebulaStack-Hub)
-- [Telegram](https://t.me/NebulaStack)
-- [YouTube](https://youtube.com/@NebulaStack-Co)
+# 🚀 Projects
 
-© NebulaStack
+## Phase I
+
+*No projects.*
+
+## Phase II
+
+### ✈ Aviation
+
+| ID     | Project     | Status |
+| ------ | ----------- | :----: |
+| NS-017 | Nest Air 01 |   📝   |
+| NS-018 | Nest Air 02 |   📝   |
+
+### 🤖 Robotics
+
+| ID     | Project | Status |
+| ------ | ------- | :----: |
+| NS-019 | NestBot |   📝   |
+
+# 🔭 Future Directions
+
+* AI Robotics
+* Autonomous Navigation
+* Computer Vision
+* Flight Systems
+
+# 🛠 Technology Stack
+
+* Arduino
+* Raspberry Pi
+* Python
+* C++
+* AI
+* Computer Vision
+
+# 🌌 Philosophy
+
+Engineering reaches its full potential when software becomes capable of interacting with the physical world.
+
+> **Code can move machines. Knowledge can move the future.**
