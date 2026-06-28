@@ -22,16 +22,16 @@ Bring software into the physical world by creating intelligent engineering syste
 
 ### ✈ Aviation
 
-| ID     | Project     | Status |
-| ------ | ----------- | :----: |
-| NS-017 | Coming soon |   📝   |
-| NS-018 | Coming soon |   📝   |
+| ID     | Project     |Links  | Status |
+| ------ | ----------- |-------| :----: |
+| NS-011 | Coming soon |       |   📝   |
+| NS-012 | Coming soon |       |   📝   |
 
 ### 🤖 Robotics
 
-| ID     |   Project   | Status |
-| ------ |   -------   | :----: |
-| NS-019 | Coming soon |   📝   |
+| ID     |   Project   |Links  | Status |
+| ------ |   -------   |-------| :----: |
+| NS-015 | Coming soon |       |   📝   |
 
 # 🔭 Future Directions
 
