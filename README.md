@@ -24,13 +24,19 @@ Bring software into the physical world by creating intelligent engineering syste
 
 | ID     | Project     |Links  | Status |
 | ------ | ----------- |-------| :----: |
-| NS-013 | Nest Air 01 |       |   📝   |
+| NS-015 | Nest Air 01 |       |   📝   |
+
+### 🚤 Hydrotech
+
+| ID     | Project     |Links  | Status |
+| ------ | ----------- |-------| :----: |
+| NS-018 | Nest Wave 01|       |   📝   |
 
 ### 🤖 Robotics
 
 | ID     |   Project   |Links  | Status |
 | ------ |   -------   |-------| :----: |
-| NS-020 | Nesty Bot   |       |   📝   |
+| NS-021-2 | Nesty Bot   |       |   📝   |
 
 # 🔭 Future Directions
 
