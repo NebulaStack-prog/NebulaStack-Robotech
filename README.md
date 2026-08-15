@@ -20,17 +20,17 @@ Bring software into the physical world by creating intelligent engineering syste
 
 ## Phase II
 
-### ✈ Aviation
-
-| ID     | Project     |Links  | Status |
-| ------ | ----------- |-------| :----: |
-| NS-M002 | Nest Air 01 |       |   📝   |
-
 ### 🚤 Hydrotech
 
 | ID     | Project     |Links  | Status |
 | ------ | ----------- |-------| :----: |
 | NS-M001 | Nest Wave 01|       |   📝   |
+
+### ✈ Aviation
+
+| ID     | Project     |Links  | Status |
+| ------ | ----------- |-------| :----: |
+| NS-M002 | Nest Air 01 |       |   📝   |
 
 ### 🤖 Robotics
 
