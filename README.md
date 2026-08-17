@@ -16,7 +16,7 @@ Bring software into the physical world by creating intelligent engineering syste
 
 ## Phase I
 
-*No projects.*
+*No projects*
 
 ## Phase II
 
