@@ -26,8 +26,6 @@ Bring software into the physical world by creating intelligent engineering syste
 | ------ | ----------- |-------| :----: |
 | NS-M002 | Nest Air 01 |       |   📝   |
 
-## 🚀🚀🚀 Projects of Phase III
-
 ### 🤖 Robotics
 
 | ID     |   Project   |Links  | Status |
