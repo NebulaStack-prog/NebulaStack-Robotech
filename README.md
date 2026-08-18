@@ -12,13 +12,7 @@ The repository focuses on autonomous systems, robotics, aviation and AI-powered 
 
 Bring software into the physical world by creating intelligent engineering systems.
 
-# 🚀 Projects
-
-## Phase I
-
-*No projects*
-
-## Phase II
+##   🚀🚀 Projects of Phase II
 
 ### 🚤 Hydrotech
 
@@ -32,20 +26,22 @@ Bring software into the physical world by creating intelligent engineering syste
 | ------ | ----------- |-------| :----: |
 | NS-M002 | Nest Air 01 |       |   📝   |
 
+## 🚀🚀🚀 Projects of Phase III
+
 ### 🤖 Robotics
 
 | ID     |   Project   |Links  | Status |
 | ------ |   -------   |-------| :----: |
 | NS-M003 | Nesty Bot   |       |   📝   |
 
-# 🔭 Future Directions
+## 🔭 Future Directions
 
 * AI Robotics
 * Autonomous Navigation
 * Computer Vision
 * Flight Systems
 
-# 🛠 Technology Stack
+## 🛠 Technology Stack
 
 * Arduino
 * Raspberry Pi
@@ -54,7 +50,7 @@ Bring software into the physical world by creating intelligent engineering syste
 * AI
 * Computer Vision
 
-# 🌌 Philosophy
+## 🌌 Philosophy
 
 Engineering reaches its full potential when software becomes capable of interacting with the physical world.
 
