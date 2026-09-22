@@ -25,7 +25,7 @@ Bring software into the physical world by creating intelligent engineering syste
 | ID     | Project     |Links  | Status |
 | ------ | ----------- |-------| :----: |
 | NS-M002 | Nest Air 01 |       |   📝   |
-| NS-M004 | Nest Space 01 |       |   📝   |
+| NS-M004 | Nest Air 02 |       |   📝   |
 
 ### 🤖 Robotics
 
