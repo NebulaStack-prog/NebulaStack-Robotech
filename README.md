@@ -33,13 +33,6 @@ Bring software into the physical world by creating intelligent engineering syste
 | ------ |   -------   |-------| :----: |
 | NS-M004 | Nesty Bot   |       |   📝   |
 
-## 🔭 Future Directions
-
-* AI Robotics
-* Autonomous Navigation
-* Computer Vision
-* Flight Systems
-
 ## 🛠 Technology Stack
 
 * Arduino
